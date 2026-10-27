@@ -2,12 +2,12 @@
 // Use the SAME db.js in the frontend AND the backend.
 // 1. Your Firebase project's settings (from Project settings > Your apps)
 const firebaseConfig = {
-apiKey: "YOUR_API_KEY",
-authDomain: "YOUR_PROJECT.firebaseapp.com",
-projectId: "YOUR_PROJECT_ID",
-storageBucket: "YOUR_PROJECT.firebasestorage.app",
-messagingSenderId: "YOUR_SENDER_ID",
-appId: "YOUR_APP_ID"
+apiKey: "AIzaSyA-rWBCjy6ZEaqDBH-gLQR61ckOAUSWFok",
+  authDomain: "e-commerce2-cbb81.firebaseapp.com",
+  projectId: "e-commerce2-cbb81",
+  storageBucket: "e-commerce2-cbb81.firebasestorage.app",
+  messagingSenderId: "231597500053",
+  appId: "1:231597500053:web:daf375ada5ce2ec4d85d9c"
 };
 // 2. Start Firebase and connect to Firestore
 firebase.initializeApp(firebaseConfig);
